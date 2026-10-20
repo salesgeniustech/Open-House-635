@@ -1,28 +1,28 @@
 window.config = {
   "property": {
-    "streetAddress": "114 Smith Road ",
-    "city": "Kemptville",
-    "cityStateZip": "Kemptville, Ontario  K0G 1T0",
-    "heroSubtitle": "Prepare to be transformed by this stunning Detached that represents the pinnacle of residential design. With 4 carefully curated bedrooms, 4 luxurious bathrooms, and an expansive 2200 sq ft floor plan, this home is more than just a living space – it's a lifestyle statement. Every inch has been thoughtfully crafted to provide an exceptional living experience that balances aesthetic appeal with practical functionality, creating a harmonious environment that adapts to your most discerning needs.",
-    "backgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1763578619337-24-web-or-mls-20.jpg"
+    "streetAddress": "88 iverness way",
+    "city": "bradford",
+    "cityStateZip": "bradford, Ontario L3Z 0W5",
+    "heroSubtitle": "Experience the epitome of modern living in this extraordinary 4-bedroom, 4-bathroom Detached. Spanning an impressive 3019 sq ft, this meticulously crafted home offers a perfect blend of style, comfort, and functionality. Every corner has been designed with precision, creating a space that not only meets but exceeds the expectations of discerning homeowners. Discover a residence that seamlessly combines sophisticated design with practical living, where every detail tells a story of quality and thoughtful construction.",
+    "backgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/roccasalvaco/marketing-requests/open-house/1792528281675-302.jpg"
   },
   "realtor": {
-    "fullName": "Nicole Garrett",
+    "fullName": "Rick Roccasalva",
     "title": "REALTOR®",
-    "email": "nicole@driscollpeca.com",
-    "phone": "613-258-2222",
-    "photoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-1487654.jpg",
-    "bio": "With years of real estate service under our belt, we can assure you that you are in good hands with our team. We are committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers. With deep local knowledge and a true passion for real estate, we're committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one — we can't wait to work with you!",
+    "phone": "416 616 9369",
+    "email": "rick@roccasalva.co",
+    "photoUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/istreet-realty-group/profile/1779990961304-4F255BBD-7E78-4D67-9BFB-675A94665BAF.png",
+    "bio": "At Roccasalva & Co, we are built on integrity, insight, and innovation. We combine decades of real estate expertise with cutting-edge technology to deliver unmatched support, transparency, and results for our clients. With over 40 years of hands-on real estate experience and extensive corporate backgrounds, our managing partners provide a balanced and strategic approach to Residential, Commercial, and Investment properties. We prioritize clear communication and use the latest market insights to guide every client toward success - whether buying, selling, or investing. At Roccasalva & Co., we’re more than real estate experts - we’re your trusted partner in building your future.",
     "social": {
-      "facebook": "https://www.facebook.com/driscollpecateam",
-      "instagram": "https://www.instagram.com/driscollpecateam",
-      "website": "https://www.driscollpeca.com"
+      "facebook": "https://www.facebook.com/Roccasalvaco",
+      "instagram": "https://www.instagram.com/roccasalva.co/",
+      "website": "https://www.homelifepartnersrealty.com/"
     }
   },
   "brokerage": {
-    "name": "REAL Broker LTD",
-    "logoUrl": "https://yl-clients-prod.s3.amazonaws.com/1c2ff89a-b0f6-4582-ac27-3e2203d89e67117213106_brokeredby_logo_ontario.png",
-    "address": "218 Brant Avenue Brantford ON N3T 3H9"
+    "name": "Roccasalva & Co. - HomeLife Partners Realty Corp Brokerage",
+    "logoUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Homelifepartnersrealtycorplogo.png",
+    "address": "3850 Steeles Avenue W. Unit 6, Woodbridge, Ontario"
   },
   "openHouse": {
     "eventDate": "",
@@ -30,89 +30,87 @@ window.config = {
             {
                   "icon": "fas fa-home",
                   "text": "Full Property Listing",
-                  "url": "https://www.realtor.ca/real-estate/29099863/114-smith-road-north-grenville-803-north-grenville-twp-kemptville-south"
+                  "url": "https://www.realtor.ca/real-estate/30423935/88-inverness-way-bradford-west-gwillimbury-rural-bradford-west-gwillimbury"
             },
             {
                   "icon": "fas fa-vr-cardboard",
                   "text": "3D Virtual Tour",
-                  "url": "https://youtube.com/shorts/uwuZc_yULGI"
+                  "url": "https://drive.google.com/file/d/1aFFaXjOx8piWrkRkaRNeBaPA2GmZfEGV/view?usp=drive_link"
             },
             {
                   "icon": "fas fa-video",
                   "text": "Video Tour",
-                  "url": "https://youtube.com/shorts/uwuZc_yULGI"
-            },
-            {
-                  "icon": "fas fa-file-pdf",
-                  "text": "Feature Website ",
-                  "url": "https://sites.ground2airmedia.com/sites/xabmljb/unbranded"
+                  "url": "https://www.youtube.com/watch?v=ECdE7m_qA1A"
             }
       ]
   },
   "meta": {
-    "pageTitlePrefix": "🏡 Nicole Garrett Open House",
+    "pageTitlePrefix": "🏡 Rick Roccasalva Open House",
     "navBrandLogoText": "OPEN HOUSE",
-    "privacyPolicyLink": "https://driscollpeca.com/privacy.html"
+    "privacyPolicyLink": "https://roccasalva.co/privacy-policy"
   },
   "settings": {
-    "primaryColor": "#00224a",
-    "secondaryColor": "#05C3F9",
-    "accentColor": "#05C3F9",
+   "primaryColor": "",
+    "secondaryColor": "",
+    "accentColor": "",
     "neutralColor": "",
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
     "visitorWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouse",
     "confettiColors": [
-      "#A78BFA",
-      "#C4B5FD",
-      "#E9D5FF",
-      "#8B5CF6",
-      "#7C3AED"
+      "#6187a7",
+      "#f0e9d6",
+      "#ffffff",
+      "#83a363",
+      "#d9ac68"
     ]
   },
   "modalQuestions": [
-    {
-      "id": "agent_status",
-      "questionText": "Are you currently exploring homes with a real estate agent?",
-      "options": [
-        { "value": "committed", "text": "Yes, I'm committed to an agent." },
-        { "value": "not_committed", "text": "No, I'm not committed to an agent." },
-        { "value": "gathering_info", "text": "Just gathering information at this stage." }
-      ]
-    },
-    {
-      "id": "interest_level",
-      "questionText": "How interested are you in this Detached?",
-      "options": [
-        { "value": "very_interested", "text": "Very interested, actively looking." },
-        { "value": "somewhat_interested", "text": "Somewhat interested, keeping options open." },
-        { "value": "just_browsing", "text": "Just browsing for now." }
-      ]
-    },
-    {
-      "id": "neighborhood_engagement",
-      "questionText": "How do you usually enjoy the neighborhood?",
-      "options": [
-        { "value": "resident_explorer", "text": "I live here and love exploring locally." },
-        { "value": "considering_move", "text": "I'm considering moving to this area." },
-        { "value": "just_visiting", "text": "Just visiting for the open house." }
-      ]
-    },
-    {
-      "id": "feature_attraction",
-      "questionText": "What feature attracted you to this home?",
-      "options": [
-        { "value": "design_layout", "text": "The design and layout." },
-        { "value": "location_neighborhood", "text": "The location and neighborhood." },
-        { "value": "home_price", "text": "The price of the home." }
-      ]
-    }
-  ],
+  {
+    "id": "q_auto_1750445840887_0",
+    "questionText": "What's your current situation?",
+    "options": [
+      { "value": "I own my home", "text": "I own my home" },
+      { "value": "I rent", "text": "I rent" },
+      { "value": "Live with family/friends", "text": "Live with family/friends" },
+      { "value": "Between homes", "text": "Between homes" }
+    ]
+  },
+  {
+    "id": "q_auto_1750445840887_1",
+    "questionText": "What are you looking to do?",
+    "options": [
+      { "value": "Buy a home", "text": "Buy a home" },
+      { "value": "Sell and buy", "text": "Sell and buy" },
+      { "value": "Rent a place", "text": "Rent a place" },
+      { "value": "Invest in property", "text": "Invest in property" }
+    ]
+  },
+  {
+    "id": "q_auto_1750445840887_2",
+    "questionText": "When are you planning to move?",
+    "options": [
+      { "value": "ASAP", "text": "ASAP" },
+      { "value": "3-6 months", "text": "3-6 months" },
+      { "value": "6-12 months", "text": "6-12 months" },
+      { "value": "12+ months", "text": "12+ months" }
+    ]
+  },
+  {
+    "id": "agent_status",
+    "questionText": "Are you currently exploring homes with a real estate agent?",
+    "options": [
+      { "value": "committed", "text": "Yes, I'm committed to an agent." },
+      { "value": "not_committed", "text": "No, I'm not committed to an agent." },
+      { "value": "gathering_info", "text": "Just gathering information at this stage." }
+    ]
+  }
+],
   "deploymentInfo": {
-    "repoId": "1100037723",
-    "repoName": "Open-House-138",
-    "tag": "Open House 114 Smith Road ",
+    "repoId": "1427536031",
+    "repoName": "Open-House-635",
+    "crmLeadParsingEmail": "rick.roccasalva@followupboss.me",
+    "tag": "Open House 88 iverness way",
     "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/723v7Nh8JC60wCn3aRmV",
-    "crmLeadParsingEmail": "",
-    "sgApiKey": ""
+    "sgApiKey": "api_78cab2d8c3a43b799acf6a8339343720"
   }
 };
