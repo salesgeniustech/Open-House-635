@@ -1,6 +1,6 @@
 const config = {
   "property": {
-    "streetAddress": "88 Inverness Way",
+    "streetAddress": "88 Inverness way",
     "city": "Bradford",
     "cityStateZip": " Bradford, Ontario L3Z 0W5",
     "heroSubtitle": "Experience the epitome of modern living in this extraordinary 4-bedroom, 4-bathroom Detached. Spanning an impressive 3019 sq ft, this meticulously crafted home offers a perfect blend of style, comfort, and functionality. Every corner has been designed with precision, creating a space that not only meets but exceeds the expectations of discerning homeowners. Discover a residence that seamlessly combines sophisticated design with practical living, where every detail tells a story of quality and thoughtful construction.",
